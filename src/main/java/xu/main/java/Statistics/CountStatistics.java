@@ -37,7 +37,6 @@ public class CountStatistics {
 		try {
 			this.loadStopWords();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
