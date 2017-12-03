@@ -1,4 +1,4 @@
 data-mining
 ===========
 
-begin data minig
+朴素贝叶斯文本识别
